@@ -77,3 +77,30 @@
   
 }
 
+/* inicio albuns  */
+
+
+.albuns-BOXE {
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titulo-album {
+    font-weight: bold;
+    margin-top: 1cm;
+    font-size: 1cm;
+}
+
+
+.albuns {
+    margin-top: 1cm;
+    display: flex;
+}
+
+.album iframe {
+    margin-left: 0.5cm;
+    height: 7cm;
+    width: 9cm;
+}
