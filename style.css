@@ -126,3 +126,37 @@
     border-style: none;
     border-radius: 10px;
 }
+
+/* fim albuns  */
+
+/* clipes  */
+
+.clipes-boxe {
+    background-color: black;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.titulo-clipe {
+    font-weight: bold;
+    margin-top: 1cm;
+    font-size: 1cm;
+    color: white;
+    
+}
+
+.clipes-boxe2 {
+   justify-content: center;
+    
+    display: flex;
+    overflow:visible;
+    flex-wrap: wrap;
+    
+}
+
+.clipes {
+    
+    margin: 0.5cm;
+}
