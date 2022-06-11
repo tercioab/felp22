@@ -61,7 +61,12 @@
 	height: 100vh;
 	background-position: 10cm;
 	display: flex;
+    transition: 1s;
+   
 }
+
+
+
 
 .box h1 {
 	display: flex;
@@ -71,7 +76,10 @@
 	margin-top: auto;
 	margin-bottom: auto;
 	color: white;
+    transition: 1s;
 }
+
+
 
 .box h1 hr {
 	height: 7cm;
