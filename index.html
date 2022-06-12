@@ -7,17 +7,17 @@
 		<link rel="stylesheet" href="style.css" />
 		<title>Document</title>
 	</head>
-	<body>
-		<header>
+	<body >
+		<header  id="topo" >
 			<nav class="nav-bar">
 				<div class="titulo-header">
 					<h1>FELP22</h1>
 				</div>
 				<nav class="nav-menu">
-					<a href="">Contato</a>
-					<a href="">Clipes</a>
-					<a href="">Álbuns</a>
-					<a href="">Links</a>
+					<a href="#contato">Contato</a>
+					<a href="#clipes">Clipes</a>
+					<a href="#albuns">Álbuns</a>
+					<a href="#links">Links</a>
 				</nav>
 			</nav>
 		</header>
@@ -30,11 +30,12 @@
 				</h1>
 			</div>
 		</main>
+
 		<!-- BOX FINAL -->
-		<hr class="hr-album" />
+		<hr id="albuns"  class="hr-album" />
 		<!-- ALBUM INICIO -->
-		<div class="albuns-BOXE">
-			<div class="titulo-album">ÁLBUNS</div>
+		<div   class="albuns-BOXE">
+			<div class="titulo-album"  >ÁLBUNS</div>
 			<div class="albuns">
 				<div class="album">
 					<iframe
@@ -62,7 +63,7 @@
 			</div>
 		</div>
 		<!-- ALBUM FINAL! -->
-		<hr class="clipes-hr" />
+		<hr id="clipes" class="clipes-hr" />
 		<!-- clipes  -->
 		<div class="clipes-boxe">
 			<div class="titulo-clipe">CLIPES</div>
@@ -146,7 +147,7 @@
 		<form action="" class="form-principal">
 			<div class="form">
 				<div class="form-individual"></div>
-				<h1>CONTRATE O NOSSO SHOW</h1>
+				<h1 id="contato">CONTRATE O NOSSO SHOW</h1>
 				<label for="">Seu Email</label>
 				<input
 					type="email"
@@ -190,10 +191,10 @@
 					<h1>FEITO POR: TERCIO</h1>
 				</div>
 				<div class="redes-sociais">
-					<h1>teste</h1>
+					<h1 id="links">teste</h1>
 				</div>
 				<div class="botao-topo">
-					<button>^TOPO^</button>
+					<a href="#topo" type="button" class="botao">VOLTAR PRO TOPO</a>
 				</div>
 			</div>
 		</footer>
