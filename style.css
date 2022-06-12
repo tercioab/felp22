@@ -64,6 +64,16 @@
   transition: 1s;
 }
 
+.mudar {
+    background: rgba(0, 0, 0, 0.5) url(felp22-album.jpg);
+    background-blend-mode: color;
+    position: 20cm;
+    height: 100vh;
+    background-position: 10cm;
+    display: flex;
+    transition: 1s;
+  }
+
 .box h1 {
   display: flex;
   width: 40%;
