@@ -59,7 +59,7 @@
 }
 
 .box {
-	background: rgba(0, 0, 0, 0.5) url(/imagens/felp22.jpg);
+	background: rgba(0, 0, 0, 0.5) url(felp22.jpg);
 	background-blend-mode: color;
 	position: 20cm;
 	height: 100vh;
@@ -71,7 +71,7 @@
 
 
 .mudar {
-	background: rgba(0, 0, 0, 0.5) url(/imagens/felp22-album.jpg);
+	background: rgba(0, 0, 0, 0.5) url(felp22-album.jpg);
 	background-blend-mode: color;
 	height: 100vh;
 	display: flex;
@@ -125,7 +125,7 @@
 }
 
 .albuns-BOXE {
-	background: rgba(0, 0, 0, 0.9) url(/imagens/felp22-album.jpg);
+	background: rgba(0, 0, 0, 0.9) url(felp22-album.jpg);
 	height: 70vh;
 	display: flex;
 	flex-direction: column;
