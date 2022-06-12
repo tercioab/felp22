@@ -258,3 +258,7 @@
   
   width: 0.7cm;
 }
+
+.form label {
+  margin-top: 0.4cm;
+}
