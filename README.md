@@ -1,7 +1,10 @@
 # felp22
 
 Pagina feita com base no trabalho do cantor Felp22
-Nela foi utilizada HTML, CSS E JAVASCRIPT 
+
+Esse é o meu segundo projeto de programação onde eu coloquei minhas habilidades
+em HTML, CSS E JAVASCRIPT em prática. Nesse projeto eu juntei uma das coisas que eu mais gosto
+musica e programação.
 
 https://tercioab.github.io/felp22_page/
 
