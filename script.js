@@ -2,7 +2,7 @@ const box = document.getElementById("box-teste");
 
 
 
-box.addEventListener("click", function () {
+box.addEventListener("click", () => {
 	if (box.className !== "mudar") {
 		box.className = "mudar";
 		box.innerHTML = `<h1> FELP 22 ! </h1> `;
