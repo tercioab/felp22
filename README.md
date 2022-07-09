@@ -1,6 +1,7 @@
 # felp22
 
 Pagina feita com base no trabalho do cantor Felp22
+Nela foi utilizada HTML, CSS E JAVASCRIPT 
 
 ![Screenshot](pagina1.png)
 
